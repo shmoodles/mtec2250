@@ -1,0 +1,13 @@
+Dino Sakic
+Psuedocode for project
+
+Assign a variable for potentiometer to analog hole on Arduino (A0)
+
+Assign variable for potentiometer input and output.
+
+Activate serial COM @ 9600 baud
+
+Assign Potentiometer value to be determined by reading data from analog port and store it in output variable
+
+Map potentiometer input to a range (experiment with values)
+
