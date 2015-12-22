@@ -1,3 +1,3 @@
 # mtec2250
 MTEC2250
-This Dino's 2250 repository.
+This IS Dino's 2250 repository.
